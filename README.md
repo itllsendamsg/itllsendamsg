@@ -7,7 +7,7 @@
 
 <h2 align="left"><a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53912118483/in/album-72177720319428108/" title="P (1)"><img src="https://live.staticflickr.com/65535/53912118483_c7ec2b7ca7_w.jpg" width="264" height="400" alt="P (1)"/></a></h2>
 
-<h2 align="right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53913327324/in/album-72177720319428108/" title="P (3)"><img src="https://live.staticflickr.com/65535/53913327324_328cf79ee7_n.jpg" width="320" height="168" alt="P (3)"/></a></h2>
+[//]: # (<h2 align="right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53913327324/in/album-72177720319428108/" title="P &#40;3&#41;"><img src="https://live.staticflickr.com/65535/53913327324_328cf79ee7_n.jpg" width="320" height="168" alt="P &#40;3&#41;"/></a></h2>)
 
 
 

@@ -1,7 +1,7 @@
 
 <h2 align="center">Good morning 👋👋</h2>
 
-<img alt="P (1).jpg" height="970" src="..%2Fitllsendamsg%20Lab%2F1%209%208%2024%2FP%20%281%29.jpg" width="640"/>
+
 
 ***
 

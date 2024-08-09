@@ -1,4 +1,4 @@
-## *Good morning* 👋👋
+<h2 align="center">Good morning 👋👋</h2>
 
 ***
 

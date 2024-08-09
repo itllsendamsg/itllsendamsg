@@ -1,5 +1,5 @@
 
-<h2 align="center">✨ It's nice to meet you here ✨</h2>
+<h2 align="center">✨ It's nice to meet you here. ✨</h2>
 
 
 ***

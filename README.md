@@ -18,7 +18,7 @@
 
 ***
 
-<br/><br/><br/>
+<br><br/>
 
 
 
@@ -30,7 +30,7 @@
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53912090042/in/album-72177720319428108/" title="P (4)"><img src="https://live.staticflickr.com/65535/53912090042_c5d3bb2fe3_n.jpg" width="320" height="164" alt="P (4)"/>
 <h2 align="center>
 
-<br/><br/><br/>
+<br><br/>
 
 
 <div align="center">

@@ -18,8 +18,10 @@
 
 ***
 
+
 <br>
 <br>
+
 
 
 <h2 align="center"><a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53914041900/in/album-72177720319428108/" title="P (1)"><img src="https://live.staticflickr.com/65535/53914041900_70d53bfa77_z.jpg" width="640" height="125" alt="P (1)"/></a></h2>
@@ -33,6 +35,24 @@
 
 <br>
 <br>
+
+
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
 
 
 <div align="center">

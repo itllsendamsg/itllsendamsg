@@ -9,8 +9,7 @@
 
 [//]: # (<h2 align="right"><a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53913327324/in/album-72177720319428108/" title="P &#40;3&#41;"><img src="https://live.staticflickr.com/65535/53913327324_328cf79ee7_n.jpg" width="320" height="168" alt="P &#40;3&#41;"/></a></h2>)
 
-[//]: # (<a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53913327324/in/album-72177720319428108/"><img src="https://live.staticflickr.com/65535/53913327324_328cf79ee7_q.jpg" width="150" height="150" alt="P &#40;3&#41;"/> <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53913327324/in/album-72177720319428108/"><img src="https://live.staticflickr.com/65535/53913327324_328cf79ee7_q.jpg" width="150" height="150" alt="P &#40;3&#41;"/>)
-
+<h2 align="left"><a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53913327324/in/album-72177720319428108/"><img src="https://live.staticflickr.com/65535/53913327324_328cf79ee7_q.jpg" width="150" height="150" alt="P (3)"/> <br clear="right"/> <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53913327324/in/album-72177720319428108/"><img src="https://live.staticflickr.com/65535/53913327324_328cf79ee7_q.jpg" width="150" height="150" alt="P (3)"/>
 
 
 

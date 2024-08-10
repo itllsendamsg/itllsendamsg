@@ -6,6 +6,7 @@
 </h2>
 
 ***
+
 <div align="center"> 
   <a href="mailto:marcin.chudy.office@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -14,6 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
 ***
 
 <h2 align="center"><a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53914041900/in/album-72177720319428108/" title="P (1)"><img src="https://live.staticflickr.com/65535/53914041900_70d53bfa77_z.jpg" width="640" height="125" alt="P (1)"/></a></h2>

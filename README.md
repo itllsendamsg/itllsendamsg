@@ -26,15 +26,6 @@
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53912090042/in/album-72177720319428108/" title="P (4)"><img src="https://live.staticflickr.com/65535/53912090042_c5d3bb2fe3_n.jpg" width="320" height="164" alt="P (4)"/>
 <h2 align="center>
 
-<div align="center"> 
-  <a href="mailto:marcin.chudy.office@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/marcin-chudy-67817b69/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>

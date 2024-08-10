@@ -19,7 +19,7 @@
 ***
 
 <br/><br/>
-<br/><br/>
+
 
 <h2 align="center"><a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53914041900/in/album-72177720319428108/" title="P (1)"><img src="https://live.staticflickr.com/65535/53914041900_70d53bfa77_z.jpg" width="640" height="125" alt="P (1)"/></a></h2>
 
@@ -30,7 +30,7 @@
 <h2 align="center>
 
 <br/><br/>
-<br/><br/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>

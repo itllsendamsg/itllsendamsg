@@ -25,11 +25,11 @@
 
 
 
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h2 align="center">⚒️ Workbench ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,mongodb,mysql" /><br>
 </div>
 
 

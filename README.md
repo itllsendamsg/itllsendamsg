@@ -40,6 +40,15 @@
 
 
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,mongodb,java,mysql" /><br>
+</div>
+
+
+
 <div align="center">
 <br>
   <h2>🐍 My Contributions 🐍</h2>

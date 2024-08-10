@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,java,javascript,spring,bootstrap,html,css" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,intelliJ" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
 </div>
 
 

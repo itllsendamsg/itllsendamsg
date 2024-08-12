@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Workbench ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,java,javascript,spring,hibernate,bootstrap,html,css" />
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,springboot" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,java,javascript,spring,hibernate,bootstrap,html,css" />
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql" /><br>
 </div>
 
 

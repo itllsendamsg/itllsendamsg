@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,java,javascript,spring,hibernate,bootstrap,html,css" />
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postman,markdown" /><br>
 </div>
 
 

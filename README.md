@@ -82,7 +82,7 @@
 🐍 My Contributions 🐍
 <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 </h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 <br/>
 </div>
 

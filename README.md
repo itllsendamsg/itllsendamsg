@@ -41,7 +41,11 @@
 
 
 
-<h2 align="center">⚒️ Workbench ⚒️</h2>
+<h2 align="center">
+<img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+⚒️ Workbench ⚒️
+<img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,java,javascript,spring,hibernate,bootstrap,html,css" />

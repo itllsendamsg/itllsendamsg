@@ -76,7 +76,11 @@
 
 <div align="center">
 <br>
-  <h2>🐍 My Contributions 🐍</h2>
+<h2>
+<img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+🐍 My Contributions 🐍
+<img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 <br/><br/><br/>

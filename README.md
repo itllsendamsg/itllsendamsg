@@ -51,7 +51,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postman,maven,markdown" /><br>
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm)"
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm)"/>
     <img src="https://skillicons.dev/icons?i=git,github,java,javascript,spring,hibernate,bootstrap,html,css" />
 </div>
 

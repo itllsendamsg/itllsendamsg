@@ -50,7 +50,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,java,javascript,spring,hibernate,bootstrap,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postman,maven,markdown&theme=light" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postman,maven,markdown" /><br>
 </div>
 
 

@@ -51,6 +51,13 @@
     <img src="https://skillicons.dev/icons?i=git,github,java,javascript,spring,hibernate,bootstrap,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postman,maven,markdown" /><br>
 </div>
+<div align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&theme=light" />
+  </a>
+</p>
+</div>
 
 
 
@@ -111,4 +118,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 

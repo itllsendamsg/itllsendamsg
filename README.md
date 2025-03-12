@@ -64,7 +64,7 @@
 </h2>
 
 <h2 align="center">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/54381186086/in/album-72177720319428108" title="P (17)"><img src="https://live.staticflickr.com/65535/54381186086_6a9d295a68.jpg" width="500" height="253" alt="P (17)"/>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/54381186086/in/album-72177720319428108" title="P (17)"><img src="https://live.staticflickr.com/65535/54381186086_6a9d295a68_w.jpg" width="400" height="202" alt="P (17)"/></a>
 <br clear="both"/>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53913327324/in/album-72177720319428108/"><img src="https://live.staticflickr.com/65535/53913327324_328cf79ee7_q.jpg" width="320" height="168" alt="P (3)"/>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53912090042/in/album-72177720319428108/" title="P (4)"><img src="https://live.staticflickr.com/65535/53912090042_c5d3bb2fe3_n.jpg" width="320" height="164" alt="P (4)"/>

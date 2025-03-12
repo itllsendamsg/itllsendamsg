@@ -61,7 +61,6 @@
 
 <h2 align="center">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/53914049505/in/album-72177720319428108/" title="P (2)"><img src="https://live.staticflickr.com/65535/53914049505_964f709f01_w.jpg" width="264" height="400" alt="P (2)"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/54381186086/in/album-72177720319428108" title="P (17)"><img src="https://live.staticflickr.com/65535/54381186086_6a9d295a68_n.jpg" width="320" height="162" alt="P (17)"/><br clear="both"/>
 </h2>
 
 <h2 align="center">

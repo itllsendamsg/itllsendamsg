@@ -92,6 +92,8 @@
 <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 🐍 My Contributions 🐍
 <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/itllsendamsg/itllsendamsg/-/raw/main/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://gitlab.com/[USERNAME]/[USERNAME]/-/raw/main/output/[game-name]-contribution-graph.svg">
 </h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 

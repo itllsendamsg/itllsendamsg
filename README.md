@@ -93,7 +93,7 @@
 🐍 My Contributions 🐍
 <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 
-    itllsendamsg: ${{ github.repository_owner }}
+    github_user_name: ${{ github.repository_owner }}
     outputs: |
       dist/github-snake.svg
 </h2>

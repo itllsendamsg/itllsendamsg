@@ -52,7 +52,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,java,javascript,spring,hibernate,bootstrap,html,css" />
     <img src="https://skillicons.dev/icons?i=docker,mongodb,mysql,postman,maven,markdown" /><br>
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 
 <br>
@@ -78,7 +78,7 @@
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/54233616087/in/album-72177720319428108/" title="P (15)"><img src="https://live.staticflickr.com/65535/54233616087_0e0b643cc9_n.jpg" width="320" height="163" alt="P (15)"/>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/144424911@N02/54233616092/in/album-72177720319428108/" title="P (16)"><img src="https://live.staticflickr.com/65535/54233616092_6dfab738c3_n.jpg" width="320" height="163" alt="P (16)"/>
 </h2>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
 <br>

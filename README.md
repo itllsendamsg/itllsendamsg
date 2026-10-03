@@ -92,9 +92,8 @@
 <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
 🐍 My Contributions 🐍
 <img src="https://github.com/devlancer-lucas/devlancer-lucas/blob/main/code.gif" height="20"/>
-- uses: Platane/snk/svg-only@v3
-  with:
-    github_user_name: ${{ github.repository_owner }}
+
+    itllsendamsg: ${{ github.repository_owner }}
     outputs: |
       dist/github-snake.svg
 </h2>
